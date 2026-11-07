@@ -43,9 +43,9 @@ FG_DIM = "#7a8fa8"
 HEADER = "#0d1b2a"
 
 COMP_COLORS = {          # same as anim.py
+    "cartridge": "#d4af37",
     "tip":       "#d4af37",
     "barrel":    "#d4af37",
-    "cartridge": "#2ecc71",
     "cap":       "#d4af37",
     "pen":       "#f39c12",
 }

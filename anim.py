@@ -29,11 +29,11 @@ random.seed(42)
 # ---------------------------------------------------------------------------
 COMPONENT_TYPES = ["barrel", "tip", "cartridge", "cap"]
 COLORS = {
+    "pen":       "#d4af37",
     "tip":       "#d4af37",
     "barrel":    "#d4af37",
     "cap":       "#d4af37",
     "cartridge": "#d4af37",
-    "pen":       "#f39c12",
 }
 
 X_MAKER, X_QC, X_BIN          = 1.5, 3.5, 5.5
